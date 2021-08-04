@@ -1,0 +1,2 @@
+# TheLuxuryRestaurantSystem
+ Build a software project that can efficiently handle and manage various activities of a restaurant and all these activities will be happening under the supervision of the administrator. Hence the project is developed proficiently to help restaurant owners automate their business operations. This project serves the best way of maintaining customer’s information and caters their needs.

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TheLuxuryRestaurantSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/TheLuxuryRestaurantSystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
